@@ -1,7 +1,7 @@
 # **A Panorama of Global Product Sales – Interactive Excel Dashboard**
 
 ## 🎯 **Description**
-Dashboard interaktif ini dibuat menggunakan Microsoft Excel dan dirancang untuk menampilkan performa penjualan global dari berbagai item dan region. Dashboard mencakup analisis penjualan, profitabilitas, dan tren waktu secara menyeluruh serta mudah diinterpretasikan melalui elemen visual seperti slicer, map chart, line chart, dan doughnut chart.
+Dashboard interaktif ini dibuat menggunakan Microsoft Excel dan dirancang untuk menampilkan performa penjualan global dari berbagai item dan region. Dashboard mencakup analisis penjualan, profit, dan tren waktu secara menyeluruh serta mudah diinterpretasikan melalui elemen visual seperti slicer, map chart, line chart, dan doughnut chart.
 ## 🔍 **Tools and Skills Used**
 1. Microsoft Excel (Pivot Table, Pivot Chart, Slicer, Map Chart, Conditional Formatting)
 2. Data Visualization
