@@ -18,3 +18,9 @@ Dashboard interaktif ini dibuat menggunakan Microsoft Excel dan dirancang untuk 
 8. Clustered Column Chart untuk total profit bulanan dan distribusi persennya
 ## 🖼️ **Preview Dashboard**
 <img src="https://drive.google.com/uc?export=view&id=1qPWi620RAsQyHRuCNbgt7YaaF8e9LayH" alt="Preview Dashboard" width="700"/>
+
+## 📁 **Dataset**
+Dataset terdiri dari 20 kolom dan merepresentasikan data penjualan global secara simulatif.
+
+🔗 **Lihat detailnya di sini:** 
+https://drive.google.com/drive/folders/12Tw10wSNOySfFId99XJDJTZOZGYDWSYF?usp=drive_link
