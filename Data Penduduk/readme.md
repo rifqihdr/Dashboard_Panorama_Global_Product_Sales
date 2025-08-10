@@ -1,4 +1,4 @@
-# **Cibinong Demographic Dashboard – – Interactive Excel Dashboard**
+# **Cibinong Demographic Dashboard – Interactive Excel Dashboard**
 
 ## 🎯 **Description**
 Dashboard ini dibuat menggunakan Microsoft Excel untuk memvisualisasikan data penduduk Kecamatan Cibinong secara interaktif. Menggunakan fitur slicer dan berbagai jenis grafik, pengguna dapat menjelajahi kondisi kependudukan dari berbagai sisi seperti usia, jenis kelamin, pendidikan, ekonomi, dan status sosial.
