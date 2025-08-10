@@ -1,4 +1,4 @@
-# **Sales Performance Dashboard – Interactive Excel Dashboard**
+# **Analisis Data Penjualan – Interactive Excel Dashboard**
 
 ## 🎯 **Description**
 Dashboard ini dikembangkan menggunakan Microsoft Excel dan dirancang untuk menyajikan visualisasi interaktif data penjualan secara lengkap berdasarkan metode pembayaran, bulan, dan tahun. Menggunakan kombinasi pivot chart dan slicer, pengguna dapat mengeksplorasi performa penjualan dari berbagai sisi.
