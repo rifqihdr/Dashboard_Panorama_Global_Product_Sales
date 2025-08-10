@@ -1,26 +1,14 @@
-# **A Panorama of Global Product Sales – Interactive Excel Dashboard**
+# **📊 Dashboard Interactive**
+Kumpulan dashboard interaktif berbasis Microsoft Excel yang dirancang untuk menyajikan data secara dinamis dan informatif. Setiap dashboard dilengkapi dengan:
+1.	Slicer & Timeline untuk filter data interaktif
+2.	Pivot Table & Pivot Chart untuk analisis cepat
+3.	KPI Cards untuk metrik utama
+4.	Visualisasi data menggunakan Map, Line, Bar, Pie, Doughnut dan lainnya
+5.	Diterapkan pada berbagai bidang: penjualan, kesehatan, logistik, dan demografi
 
-## 🎯 **Description**
-Dashboard interaktif ini dibuat menggunakan Microsoft Excel dan dirancang untuk menampilkan performa penjualan global dari berbagai item dan region. Dashboard mencakup analisis penjualan, profit, dan tren waktu secara menyeluruh serta mudah diinterpretasikan melalui elemen visual seperti slicer, map chart, line chart, dan doughnut chart.
-## 🔍 **Tools and Skills Used**
-1. Microsoft Excel (Pivot Table, Pivot Chart, Slicer, Map Chart, Conditional Formatting)
-2. Data Visualization
-3. Dashboard Design
-4. Analytical Thinking
-## ✨ **Key Features**
-1. Slicer interaktif berdasarkan Tahun, Region, dan Item Type untuk filter cepat
-2. Produk Terlaris ditampilkan berdasarkan nama produk, total unit, dan persentase kontribusi
-3. Map Chart untuk menunjukkan unit terjual per region secara geografis
-4. Doughnut Chart untuk membandingkan revenue & profit penjualan online vs offline
-5. Clustered Column Chart untuk analisis Unit Sold dan Unit Cost berdasarkan prioritas order
-6. Top 3 Profit Country untuk mengetahui negara dengan kontribusi profit tertinggi
-7. Line Chart untuk tren Unit Price dan Unit Sold per bulan
-8. Clustered Column Chart untuk total profit bulanan dan distribusi persennya
-## 🖼️ **Preview Dashboard**
-<img src="https://drive.google.com/uc?export=view&id=1qPWi620RAsQyHRuCNbgt7YaaF8e9LayH" alt="Preview Dashboard" width="700"/>
-
-## 📁 **Dataset**
-Dataset terdiri dari 20 kolom dan merepresentasikan data penjualan global secara simulatif.
-
-🔗 **Lihat detailnya di sini:** 
-https://drive.google.com/drive/folders/12Tw10wSNOySfFId99XJDJTZOZGYDWSYF?usp=drive_link
+# **📂 Daftar Dashboard**
+1.	A Panorama of Global Product Sales – Analisis tren penjualan global
+2.	Sales Performance Dashboard – Evaluasi kinerja penjualan
+3.	Heart Disease Risk Dashboard – Faktor risiko penyakit jantung
+4.	Sales, Inventory & Shipping Dashboard – Integrasi penjualan, stok, dan pengiriman
+5.	Cibinong Demographic Dashboard – Analisis penduduk dan sosial ekonomi
