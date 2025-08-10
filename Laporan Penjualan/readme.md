@@ -1,4 +1,4 @@
-# **Sales, Inventory & Shipping Dashboard – – Interactive Excel Dashboard**
+# **Sales, Inventory & Shipping Dashboard – Interactive Excel Dashboard**
 
 ## 🎯 **Description**
 Dashboard ini dirancang untuk memvisualisasikan laporan penjualan, status pengiriman, dan stok gudang secara terintegrasi menggunakan Microsoft Excel. Dengan fitur interaktif seperti slicer, chart, dan KPI Card, dashboard ini memungkinkan analisis performa penjualan dan logistik dari berbagai dimensi.
